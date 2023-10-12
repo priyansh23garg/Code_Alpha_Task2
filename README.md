@@ -1,4 +1,4 @@
-# Code_Alpha_Task3
+# Code_Alpha_Task2
 # Fibonacci Generator
 
 This Python script generates a Fibonacci sequence based on user input. Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1.
